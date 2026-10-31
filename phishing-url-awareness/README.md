@@ -17,15 +17,15 @@ Phishing is a trick where criminals send fake links or messages to make people s
 Python 3.10 or later. No extra packages.
 
 ## How to Run
-```
-Windows: python phishing_checker.py
-Mac/Linux: python3 phishing_checker.py
 
-```
+Windows: ```python phishing_checker.py```
+
+Mac/Linux: ```python3 phishing_checker.py```
+
 
 ## Example Output
 ```
-EWB Phishing URL Awareness Checker
+Phishing URL Awareness Checker
 Text checks only - this program does not open URLs.
 
 Enter a sample URL (or type q to quit): http://192.0.2.10/account
